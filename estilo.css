@@ -1,0 +1,28 @@
+body{
+    margin:0;
+    background: rgba(0, 48, 119, 0.849)
+}
+#capa{
+    text-align: center;
+    background: url(img/istockphoto-1058457384-170667a\ 23.jpg);
+    background-size: cover;
+    height: 600px;
+    box-sizing: border-box;
+    
+    
+}
+h1{
+    padding-top: 300px;
+    font-size: 60px;
+}
+h2{
+    font-size: 30px;
+}
+.conteudo{
+    margin: 1%; 
+    border:10px;
+    border-color:white;
+    border-style: inset;
+    padding:1%;
+    
+}
